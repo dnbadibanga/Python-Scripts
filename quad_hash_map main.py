@@ -1,0 +1,3 @@
+def QuadMap(QuadHashMap):
+
+    def 
